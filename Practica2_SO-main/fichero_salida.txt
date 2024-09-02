@@ -1,0 +1,13 @@
+Makefile
+README.md
+autores.txt
+fichero_entrada.txt
+fichero_salida.txt
+fichero_salida_error.txt
+libparser.so
+msh
+msh.c
+msh.o
+nota.txt
+probador_ssoo_p2.sh
+ssoo_p2_100472261_100451684_100429135.zip
